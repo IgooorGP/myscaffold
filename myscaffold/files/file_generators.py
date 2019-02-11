@@ -247,3 +247,6 @@ def generate_tox_ini(project_name):
         project_name=project_name
     )
     return inspect.cleandoc(file_contents)
+
+
+# TODO: add setup.py
