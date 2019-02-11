@@ -1,0 +1,9 @@
+-r requirements.txt
+black
+pylint
+pep8
+flake8
+tox
+pytest
+pytest-cov
+coverage
